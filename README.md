@@ -48,7 +48,7 @@ git clone https://github.com/acronis/perfkit.git
 
 ### Using benchmark library
 
-`go get github.com/acronis/perfkit/benchmark`
+`go install github.com/acronis/perfkit/benchmark@latest`
 
 ```go
 package main
